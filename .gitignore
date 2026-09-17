@@ -1,4 +1,6 @@
 .env
-EspanolRealStars.rar
+.env.local 
+node_modules
+EspanolRealStars.zip
 Промо
 Neon prompt
